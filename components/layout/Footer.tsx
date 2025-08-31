@@ -78,7 +78,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2025 St. Mary's College. All rights reserved.</p>
+          <p>&copy; 2025 St. Mary's College. All rights reserved. Designed and Developed by <a className='text-red-500 cursor-pointer' href="https://codspark.in" target='_blank'>CodSpark</a></p>
         </div>
       </div>
     </footer>
